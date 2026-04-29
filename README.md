@@ -66,7 +66,7 @@
 | [File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend) | Spring Boot, React, MySQL, Cloudinary, Kafka, Docker | Production-grade file management system with cloud storage |
 | [Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend) | Spring Boot, React, PostgreSQL, Stripe | Full stack ecommerce with payments & auth |
 | [AI Resume Builder](https://github.com/Sushrut-Kadate/ai-resume-builder-backend) | Spring Boot, React, AI | AI powered resume generator |
-| [ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis) | FastAPI, Python, BERT, LSTM | Sentiment analysis based mental health detection via social media |
+| [ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis) | FastAPI, Python, BERT, LSTM, CNN, Decision Trees | Sentiment analysis based mental health detection via social media |
 
 ---
 
