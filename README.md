@@ -4,17 +4,7 @@
 - B.E. Computer Engineering student at **Savitribai Phule Pune University**, Pune, India
 
 - Passionate about building scalable full-stack applications and exploring **Cloud & DevOps**
-  
----
-
-### Currently Learning
-
-- ☁️ AWS Cloud
-- 🐳 Docker & Containerization
-- 📨 Apache Kafka (Event-Driven Architecture)
-
----
-
+- 
 ### Languages and Tools
 
 #### Backend
