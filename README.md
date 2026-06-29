@@ -4,7 +4,7 @@
 - B.E. Computer Engineering student at **Savitribai Phule Pune University**, Pune, India
 
 - Passionate about building scalable full-stack applications and exploring **Cloud & DevOps**
-- 
+
 ### Languages and Tools
 
 #### Backend
