@@ -1,6 +1,6 @@
 # Hi, I'm Sushrut Kadate 👋
 
-### Full Stack Developer | Java | Python | Spring Boot | React | MySQL 
+### Computer Engineering Graduate @ Sinhgad Academy of Engineering (SAE), Pune | Full Stack Java Developer 
 ---
 
 ## 🛠️ Skills & Technologies
@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
+  <a href="mailto:sushrutkadate77@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"/>
+</a>
 </p>
