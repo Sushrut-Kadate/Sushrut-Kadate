@@ -1,68 +1,84 @@
-# Hi , I'm Sushrut Kadate
+# Hi, I'm Sushrut Kadate 👋
+
+### Full Stack Developer | Java | Python | Spring Boot | React | MySQL 
 ---
 
-- B.E. Computer Engineering student at **Savitribai Phule Pune University**, Pune, India
+## 🛠️ Skills & Technologies
 
-- Passionate about building scalable full-stack applications and exploring **Cloud & DevOps**
-
-### Languages and Tools
-
-#### Backend
+### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-#### Frontend
+### Backend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/>
 </p>
 
-#### Database
+### Frontend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-
-#### Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
 ---
 
-### Featured Projects
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+---
+
+### Developer Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| [File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend) | Spring Boot, React, MySQL, Cloudinary, Kafka, Docker | Production-grade file management system with cloud storage |
-| [Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend) | Spring Boot, React, PostgreSQL, Stripe | Full stack ecommerce with payments & auth |
-| [AI Resume Builder](https://github.com/Sushrut-Kadate/ai-resume-builder-backend) | Spring Boot, React, AI | AI powered resume generator |
-| [ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis) | FastAPI, Python, BERT, LSTM, CNN, Decision Trees | Sentiment analysis based mental health detection via social media |
+|---------|------------|-------------|
+| **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)** | Java, Spring Boot, React, MySQL, Cloudinary | Secure file management system with cloud storage and authentication |
+| **[Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend)** | Java, Spring Boot, React, PostgreSQL, Stripe | Production-ready e-commerce platform featuring JWT authentication, Stripe payment integration, and RESTful APIs. |
+| **[AI Resume Builder](https://github.com/Sushrut-Kadate/ai-resume-builder-backend)** | Java, Spring Boot, React, Spring AI | AI-powered resume builder leveraging Spring AI to generate professional resumes |
+| **[ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)** | Python, FastAPI, React, BERT, CNN, LSTM, RNN, Decision Trees | Machine learning application for detecting mental health patterns through sentiment analysis of social media content. |
 
 ---
 
-### Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sushrut-kadate" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
