@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <p align="left">
