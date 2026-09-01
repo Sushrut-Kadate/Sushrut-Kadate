@@ -1,6 +1,5 @@
 # Hi, I'm Sushrut Kadate 👋
 
-### Computer Engineering Graduate @ Sinhgad Academy of Engineering (SAE), Pune | Full Stack Java Developer 
 ---
 
 ## 🛠️ Skills & Technologies
