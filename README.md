@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 <p align="left">
@@ -59,18 +59,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)** | Java, Spring Boot, React, MySQL, Cloudinary | Secure file management system with cloud storage and authentication |
-| **[Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend)** | Java, Spring Boot, React, PostgreSQL, Stripe | Production-ready e-commerce platform featuring JWT authentication, Stripe payment integration, and RESTful APIs. |
-| **[AI Resume Builder](https://github.com/Sushrut-Kadate/ai-resume-builder-backend)** | Java, Spring Boot, React, Spring AI | AI-powered resume builder leveraging Spring AI to generate professional resumes |
-| **[ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)** | Python, FastAPI, React, BERT, CNN, LSTM, RNN, Decision Trees | Machine learning application for detecting mental health patterns through sentiment analysis of social media content. |
+| **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)** | Java, Spring Boot, React, MySQL, Cloudinary | Secure file management platform with authentication, file upload/download, cloud storage, and REST APIs. |
+| **[Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend)** | Java, Spring Boot, React, PostgreSQL, JWT, Stripe | Full-stack e-commerce application with JWT authentication, product management, cart, orders, REST APIs, and Stripe payment integration.|
+| **[ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)** | Python, FastAPI, React, BERT, CNN, LSTM, RNN, Decision Trees | ML-based text classification application using NLP and deep-learning models for sentiment analysis. |
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sushrut-kadate" target="_blank">
