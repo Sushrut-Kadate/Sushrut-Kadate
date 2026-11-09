@@ -5,16 +5,18 @@
 ---
 
 - 💻 Java Full Stack Developer building scalable, Secure and Maintainable systems, with a focus on REST APIs design, backend architecture and clean, well-structured code
-- 📄 Published a research paper on AI-based mental health detection via social media analysis: [Read the paper (IRJMETS)](https://www.irjmets.com/upload_newfiles/irjmets71000086339/paper_file/irjmets71000086339.pdf)
-- [Implementation Paper](https://ijsrem.com/download/ai-based-mental-health-detection-via-social-media-analysis)
+- 📄 Published a research paper on AI-based mental health detection via social media analysis: [Read the paper (IRJMETS)](https://www.irjmets.com/upload_newfiles/irjmets71000086339/paper_file/irjmets71000086339.pdf) | [Implementation Paper](https://ijsrem.com/download/ai-based-mental-health-detection-via-social-media-analysis)
 
 ---
 
 ### 💼 Projects
 
-- **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)**: Secure file management platform with authentication, file upload/download, cloud storage and REST APIs. *Tech Stack - Java, Spring Boot, React, MySQL, Cloudinary*
-- **[Ecommerce Application](https://github.com/Sushrut-Kadate/shopnow-backend)**: Full-stack e-commerce application with JWT authentication, product management, cart, orders and Stripe payments. *Tech Stack - Java, Spring Boot, React, PostgreSQL, JWT, Stripe*
-- **[Mental Health Detection via Social Media Analysis](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)**: Text classification of social media text using NLP and deep-learning models for sentiment analysis. *Tech Stack - Python, FastAPI, React, MongoDB, BERT, CNN, LSTM, RNN, Decision Trees*
+- **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)**: Secure file management platform with authentication, file upload/download, cloud storage and REST APIs.
+- *Tech Stack - Java, Spring Boot, React, MySQL, Cloudinary*
+- **[Ecommerce Application](https://github.com/Sushrut-Kadate/shopnow-backend)**: Full-stack e-commerce application with JWT authentication, product management, cart, orders and Stripe payments.
+- *Tech Stack - Java, Spring Boot, React, PostgreSQL, JWT, Stripe*
+- **[Mental Health Detection via Social Media Analysis](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)**: Text classification of social media text using NLP and deep-learning models for sentiment analysis.
+- *Tech Stack - Python, FastAPI, React, MongoDB, BERT, CNN, LSTM, RNN, Decision Trees*
 
 ---
 
