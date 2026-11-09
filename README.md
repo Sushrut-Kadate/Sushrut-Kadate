@@ -6,6 +6,7 @@
 
 - 💻 Java Full Stack Developer building scalable, Secure and Maintainable systems, with a focus on REST APIs design, backend architecture and clean, well-structured code
 - 📄 Published a research paper on AI-based mental health detection via social media analysis: [Read the paper (IRJMETS)](https://www.irjmets.com/upload_newfiles/irjmets71000086339/paper_file/irjmets71000086339.pdf)
+- [Implementation Paper](https://ijsrem.com/download/ai-based-mental-health-detection-via-social-media-analysis)
 
 ---
 
