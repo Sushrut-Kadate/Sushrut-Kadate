@@ -4,17 +4,16 @@
 
 ---
 
-- 🛠️ Tech stack: **Java, Spring Boot, Hibernate, React, Redux, MySQL, PostgreSQL, Python**
-- 📫 Email: [sushrutkadate77@gmail.com](mailto:sushrutkadate77@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sushrut-kadate](https://www.linkedin.com/in/sushrut-kadate)
+- 💻 Java Full Stack Developer building scalable, Secure and Maintainable systems, with a focus on REST APIs design, backend architecture and clean, well-structured code
+- 📄 Published a research paper on AI-based mental health detection via social media analysis: [Read the paper (IRJMETS)](https://www.irjmets.com/upload_newfiles/irjmets71000086339/paper_file/irjmets71000086339.pdf)
 
 ---
 
 ### 💼 Projects
 
-- **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)**: Secure file management platform with authentication, file upload/download, cloud storage and REST APIs. *Java, Spring Boot, React, MySQL, Cloudinary*
-- **[Ecommerce Platform](https://github.com/Sushrut-Kadate/shopnow-backend)**: Full-stack e-commerce application with JWT authentication, product management, cart, orders and Stripe payments. *Java, Spring Boot, React, PostgreSQL, JWT, Stripe*
-- **[ML Mental Health Detection](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)**: Text classification app using NLP and deep-learning models for sentiment analysis. *Python, FastAPI, React, BERT, CNN, LSTM, RNN, Decision Trees*
+- **[File Upload System](https://github.com/Sushrut-Kadate/file-upload-backend)**: Secure file management platform with authentication, file upload/download, cloud storage and REST APIs. *Tech Stack - Java, Spring Boot, React, MySQL, Cloudinary*
+- **[Ecommerce Application](https://github.com/Sushrut-Kadate/shopnow-backend)**: Full-stack e-commerce application with JWT authentication, product management, cart, orders and Stripe payments. *Tech Stack - Java, Spring Boot, React, PostgreSQL, JWT, Stripe*
+- **[Mental Health Detection via Social Media Analysis](https://github.com/deepaklawande2212/AI-Based-Mental-Health-Detection-via-Social-Media-Analysis)**: Text classification of social media text using NLP and deep-learning models for sentiment analysis. *Tech Stack - Python, FastAPI, React, MongoDB, BERT, CNN, LSTM, RNN, Decision Trees*
 
 ---
 
@@ -49,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="mailto:sushrutkadate77@gmail.com">
+  <a href="mailto:sushrutkadate@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"/>
   </a>
 </p>
